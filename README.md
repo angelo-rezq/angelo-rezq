@@ -6,7 +6,7 @@
 
 📍 Egypt
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-black?style=for-the-badge)](https://angelo-portfolio.angluosr.workers.dev)
+[![Portfolio](https://img.shields.io/badge/🌐_Eng_Angluos_Rezq-black?style=for-the-badge)](https://eng-angluos-rezq.angluosr.workers.dev)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201127570256)
 [![Email](https://img.shields.io/badge/Email-angelo.rezq.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelo.rezq.dev@gmail.com)
 
@@ -47,7 +47,7 @@
 | 💈 **Rayeq** | Grooming operations platform + Flutter app | Node.js · PostgreSQL · Flutter | [Visit](https://rayeq-platform.onrender.com) |
 | 🎓 **ZONE A** | Bilingual e-learning platform | Next.js · Supabase | [Visit](https://zone-a-platform.onrender.com) |
 | ⬢ **HEXA PLUS** | Agency website + business management platform | Next.js · Supabase | [Visit](https://hexa-plus.onrender.com) |
-| 👨‍💻 **Portfolio** | Personal portfolio + Content Studio CMS | Node.js · MongoDB | [Visit](https://angelo-portfolio.angluosr.workers.dev) |
+| 👨‍💻 **Portfolio** | Personal portfolio + Content Studio CMS | Node.js · MongoDB | [Visit](https://eng-angluos-rezq.angluosr.workers.dev) |
 
 ## 📊 GitHub Stats
 
@@ -67,6 +67,6 @@
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+20_112_757_0256-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201127570256)
 [![Email](https://img.shields.io/badge/angelo.rezq.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelo.rezq.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](https://angelo-portfolio.angluosr.workers.dev)
+[![Portfolio](https://img.shields.io/badge/Eng_Angluos_Rezq-black?style=for-the-badge)](https://eng-angluos-rezq.angluosr.workers.dev)
 
 </div>
